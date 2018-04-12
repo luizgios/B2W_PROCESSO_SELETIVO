@@ -1,3 +1,8 @@
+
+Editado por : Luiz Otavio Marques Gios
+* Respostas do Quiz anexadas
+* Modelo de dados em formato Foto.png
+
 # Challenge
 
 ### Somos um marketplace
