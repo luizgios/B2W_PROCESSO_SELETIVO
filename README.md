@@ -1,2 +1,0 @@
-# B2W_PROCESSO_SELETIVO
-Meu Modelo e Quiz BI
